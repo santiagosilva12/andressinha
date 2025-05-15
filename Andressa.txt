@@ -1,0 +1,53 @@
+senha: Sandra@#123456
+
+email:andressa.santiago500@gmail.com
+
+
+Criação de um dominio: 
+
+1. selecionar o que quer deletar, 
+clicar nas 3 bolinhas 
+deletar 
+confirmar 2x 
+
+
+SETTINGS = CRIAR REPOSITORIO (CRIAR LINK NOVO) 
+
+TODA VEZ QUE FOR MUDAR CLICAR EM MAIN (QUE SE REFERE AS PASTAS) 
+
+
+Selecionar a pasta que deseja abrir e clicar o botão direito (abrir com o code) 
+
+
+
+! enter 
+mudar linguagem an para pt-br  (Brasil)
+
+JS DELIVR = Plataforma confiavel 
+
+https://www.invertexto.com/senaibtsp
+
+Tailwind 
+
+bootstrap - html com css 
+
+AOS - ESCOLHER EFEITOS 
+ESCOLHER A LINGUA 
+
+Bibliotecas 
+
+glightbox - Caixa de luz 
+
+parallax website - com refeencias de interação 
+
+________________________________________________
+
+ISOTOP 
+
+(Aplica filtro para selecionar produtos) 
+
+
+
+
+
+
